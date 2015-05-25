@@ -1,6 +1,15 @@
 Today I have started Agile Web Development with Ruby on Rails 
 
-This is Depot Online Store
+This is Depot Online Store!
+
+Agile Web Development
+
+-current chapter: 9
+
+models: Product
+controllers: product, store
+validation, unit testing, and functional testing are added
+
 
 some new features will be added soon!
 
